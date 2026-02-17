@@ -20,6 +20,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kshitij230106/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kshitij230106/Leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |

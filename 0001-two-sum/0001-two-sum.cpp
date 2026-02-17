@@ -11,6 +11,6 @@ public:
 
             mp[nums[i]] = i;
         }
-        return {}; // never reached (one solution guaranteed)
+        return {};
     }
 };

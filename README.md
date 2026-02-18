@@ -35,6 +35,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/kshitij230106/Leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kshitij230106/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## String
 |  |
 | ------- |

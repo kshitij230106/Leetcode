@@ -7,6 +7,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij230106/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
@@ -62,6 +63,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |

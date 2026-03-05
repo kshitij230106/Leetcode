@@ -58,6 +58,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Sliding Window
 |  |
 | ------- |

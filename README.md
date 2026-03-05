@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->

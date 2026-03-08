@@ -11,12 +11,14 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij230106/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitij230106/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
+| [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +42,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/kshitij230106/Leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +64,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kshitij230106/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |

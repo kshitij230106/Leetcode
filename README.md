@@ -81,6 +81,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +108,8 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->

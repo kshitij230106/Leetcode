@@ -57,6 +57,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitij230106/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/kshitij230106/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |

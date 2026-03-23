@@ -64,6 +64,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/kshitij230106/Leetcode/tree/master/0058-length-of-last-word) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |

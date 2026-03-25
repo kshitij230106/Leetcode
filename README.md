@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kshitij230106/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kshitij230106/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0002-add-two-numbers](https://github.com/kshitij230106/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/kshitij230106/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |

@@ -139,4 +139,8 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshitij230106/Leetcode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kshitij230106/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0001-two-sum](https://github.com/kshitij230106/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kshitij230106/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kshitij230106/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kshitij230106/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
@@ -112,6 +114,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kshitij230106/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting

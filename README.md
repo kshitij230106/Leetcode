@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |

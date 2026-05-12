@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -118,6 +119,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Counting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Greedy
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Matrix
 |  |

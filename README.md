@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitij230106/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kshitij230106/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -146,6 +148,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Trie
 |  |

@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
+| [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -182,4 +183,12 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->

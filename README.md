@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kshitij230106/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kshitij230106/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -78,6 +80,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0868-binary-gap](https://github.com/kshitij230106/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kshitij230106/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |

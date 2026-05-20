@@ -23,6 +23,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -35,6 +36,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshitij230106/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
+| [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +188,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |

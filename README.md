@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kshitij230106/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |

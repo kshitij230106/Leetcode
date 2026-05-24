@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -128,6 +129,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
+| [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0015-3sum](https://github.com/kshitij230106/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
+| [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kshitij230106/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |

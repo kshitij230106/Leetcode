@@ -105,6 +105,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kshitij230106/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kshitij230106/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +113,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitij230106/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Divide and Conquer
@@ -170,6 +173,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Trie
 |  |

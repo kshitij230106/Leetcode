@@ -44,6 +44,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kshitij230106/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kshitij230106/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kshitij230106/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kshitij230106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kshitij230106/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kshitij230106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |

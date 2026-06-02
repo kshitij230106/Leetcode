@@ -67,6 +67,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/kshitij230106/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -219,6 +220,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kshitij230106/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |

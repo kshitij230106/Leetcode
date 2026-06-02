@@ -66,6 +66,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0029-divide-two-integers](https://github.com/kshitij230106/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -86,6 +87,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kshitij230106/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/kshitij230106/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kshitij230106/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -108,6 +110,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshitij230106/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kshitij230106/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -169,6 +172,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitij230106/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |

@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/kshitij230106/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
@@ -198,6 +199,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kshitij230106/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |

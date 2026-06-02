@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kshitij230106/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

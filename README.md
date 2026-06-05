@@ -14,6 +14,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/kshitij230106/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

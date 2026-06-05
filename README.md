@@ -77,6 +77,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kshitij230106/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kshitij230106/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [1871-jump-game-vii](https://github.com/kshitij230106/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kshitij230106/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kshitij230106/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kshitij230106/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -146,6 +147,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshitij230106/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kshitij230106/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -155,6 +157,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kshitij230106/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
@@ -222,6 +225,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshitij230106/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kshitij230106/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Database
 |  |
@@ -286,4 +290,8 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0102-binary-tree-level-order-traversal](https://github.com/kshitij230106/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -158,6 +159,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0005-longest-palindromic-substring](https://github.com/kshitij230106/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kshitij230106/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kshitij230106/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
@@ -168,6 +170,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |

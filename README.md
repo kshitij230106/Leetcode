@@ -51,6 +51,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitij230106/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kshitij230106/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/kshitij230106/Leetcode/tree/master/0141-linked-list-cycle) |
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -67,6 +68,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0002-add-two-numbers](https://github.com/kshitij230106/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kshitij230106/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kshitij230106/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/kshitij230106/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +156,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0027-remove-element](https://github.com/kshitij230106/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshitij230106/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/kshitij230106/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kshitij230106/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

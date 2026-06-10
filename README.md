@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kshitij230106/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | ------- |
 | [0029-divide-two-integers](https://github.com/kshitij230106/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kshitij230106/Leetcode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/kshitij230106/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kshitij230106/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

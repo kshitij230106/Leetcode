@@ -87,6 +87,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kshitij230106/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kshitij230106/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kshitij230106/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kshitij230106/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
@@ -271,6 +272,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kshitij230106/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kshitij230106/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kshitij230106/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kshitij230106/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |

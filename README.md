@@ -22,6 +22,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kshitij230106/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/kshitij230106/Leetcode/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/kshitij230106/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
@@ -260,6 +261,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0069-sqrtx](https://github.com/kshitij230106/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/kshitij230106/Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/kshitij230106/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kshitij230106/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kshitij230106/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |

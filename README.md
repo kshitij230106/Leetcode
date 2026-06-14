@@ -20,6 +20,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0136-single-number](https://github.com/kshitij230106/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitij230106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kshitij230106/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/kshitij230106/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kshitij230106/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kshitij230106/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/kshitij230106/Leetcode/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0012-integer-to-roman](https://github.com/kshitij230106/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kshitij230106/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kshitij230106/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kshitij230106/Leetcode/tree/master/0169-majority-element) |
 | [1345-jump-game-iv](https://github.com/kshitij230106/Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kshitij230106/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -181,12 +183,14 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kshitij230106/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kshitij230106/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kshitij230106/Leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/kshitij230106/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/0761-special-binary-string) |
 | [1340-jump-game-v](https://github.com/kshitij230106/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -199,6 +203,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kshitij230106/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kshitij230106/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |

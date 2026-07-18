@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 | [0035-search-insert-position](https://github.com/kshitij230106/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kshitij230106/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kshitij230106/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kshitij230106/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kshitij230106/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitij230106/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kshitij230106/Leetcode/tree/master/0136-single-number) |
@@ -209,6 +210,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kshitij230106/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/kshitij230106/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kshitij230106/Leetcode/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kshitij230106/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitij230106/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -226,6 +228,7 @@ This repository contains my LeetCode solutions implemented in C++/Java/Python. F
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kshitij230106/Leetcode/tree/master/0054-spiral-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kshitij230106/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Prefix Sum
 |  |
